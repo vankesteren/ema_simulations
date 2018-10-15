@@ -1,0 +1,1802 @@
+starting worker pid=3332 on localhost:11341 at 11:17:57.152
+starting worker pid=10496 on localhost:11341 at 11:17:57.433
+starting worker pid=4092 on localhost:11341 at 11:17:57.679
+Loading required package: lavaan
+Loading required package: lavaan
+Loading required package: lavaan
+This is lavaan 0.6-1
+lavaan is BETA software! Please report any bugs.
+This is lavaan 0.6-1
+lavaan is BETA software! Please report any bugs.
+Loading required package: Rcpp
+Loading required package: Rcpp
+This is lavaan 0.6-1
+lavaan is BETA software! Please report any bugs.
+Loading required package: ncvreg
+Loading required package: Rcpp
+Loading required package: ncvreg
+Loading required package: ncvreg
+PID: 3332 | Iter: 1 | seed: 73527
+PID: 10496 | Iter: 2 | seed: 30197
+PID: 4092 | Iter: 3 | seed: 25013
+10496 | Sobel
+3332 | Sobel
+4092 | Sobel
+3332 | filter_prodcoef
+10496 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | filter_difcoef
+10496 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:18:06)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:18:06)
+Done!     (2018-08-07 11:18:06)
+3332 | cmf_pc_res
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:18:06)
+4092 | hima
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:18:06)
+Step 1: Sure Independent Screening ...     (2018-08-07 11:18:06)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:18:06)
+Done!     (2018-08-07 11:18:06)
+10496 | cmf_pc_res
+Done!     (2018-08-07 11:18:06)
+4092 | cmf_pc_res
+3332 | cmf_dc_res
+10496 | cmf_dc_res
+4092 | cmf_dc_res
+PID: 3332 | Iter: 4 | seed: 9179
+PID: 4092 | Iter: 6 | seed: 9625
+PID: 10496 | Iter: 5 | seed: 2121
+3332 | Sobel
+4092 | Sobel
+10496 | Sobel
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:18:57)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:18:57)
+Done!     (2018-08-07 11:18:57)
+3332 | cmf_pc_res
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:18:57)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:18:57)
+Done!     (2018-08-07 11:18:57)
+4092 | cmf_pc_res
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:18:58)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:18:58)
+Done!     (2018-08-07 11:18:58)
+10496 | cmf_pc_res
+3332 | cmf_dc_res
+4092 | cmf_dc_res
+10496 | cmf_dc_res
+PID: 4092 | Iter: 9 | seed: 51379
+PID: 3332 | Iter: 7 | seed: 82605
+4092 | Sobel
+PID: 10496 | Iter: 8 | seed: 26440
+3332 | Sobel
+10496 | Sobel
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+3332 | filter_prodcoef
+10496 | filter_prodcoef
+3332 | filter_difcoef
+10496 | filter_difcoef
+3332 | xmed
+
+4092 | hima
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:19:57)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:19:58)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:19:58)
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:19:58)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:19:58)
+Done!     (2018-08-07 11:19:58)
+Done!     (2018-08-07 11:19:58)
+3332 | cmf_pc_res
+4092 | cmf_pc_res
+Done!     (2018-08-07 11:19:58)
+10496 | cmf_pc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+4092 | cmf_dc_res
+PID: 3332 | Iter: 10 | seed: 73216
+PID: 4092 | Iter: 12 | seed: 16608
+PID: 10496 | Iter: 11 | seed: 72038
+3332 | Sobel
+10496 | Sobel
+4092 | Sobel
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:20:47)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:20:47)
+Done!     (2018-08-07 11:20:47)
+10496 | cmf_pc_res
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:20:48)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:20:48)
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:20:48)
+Done!     (2018-08-07 11:20:48)
+4092 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:20:48)
+Done!     (2018-08-07 11:20:48)
+3332 | cmf_pc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+4092 | cmf_dc_res
+PID: 10496 | Iter: 14 | seed: 91561
+PID: 3332 | Iter: 13 | seed: 85739
+10496 | Sobel
+3332 | Sobel
+PID: 4092 | Iter: 15 | seed: 29177
+4092 | Sobel
+10496 | filter_prodcoef
+3332 | filter_prodcoef
+10496 | filter_difcoef
+3332 | filter_difcoef
+10496 | xmed
+3332 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:21:38)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:21:38)
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:21:38)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:21:38)
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:21:38)
+Done!     (2018-08-07 11:21:38)
+3332 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:21:38)
+Done!     (2018-08-07 11:21:38)
+10496 | cmf_pc_res
+Done!     (2018-08-07 11:21:38)
+4092 | cmf_pc_res
+3332 | cmf_dc_res
+4092 | cmf_dc_res
+10496 | cmf_dc_res
+PID: 10496 | Iter: 17 | seed: 80811
+PID: 4092 | Iter: 18 | seed: 70285
+PID: 3332 | Iter: 16 | seed: 53965
+10496 | Sobel
+4092 | Sobel
+3332 | Sobel
+10496 | filter_prodcoef
+4092 | filter_prodcoef
+10496 | filter_difcoef
+4092 | filter_difcoef
+10496 | xmed
+4092 | xmed
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:22:28)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:22:28)
+Done!     (2018-08-07 11:22:28)
+10496 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:22:28)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:22:28)
+Done!     (2018-08-07 11:22:28)
+3332 | cmf_pc_res
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:22:28)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:22:28)
+Done!     (2018-08-07 11:22:28)
+4092 | cmf_pc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+4092 | cmf_dc_res
+PID: 3332 | Iter: 19 | seed: 20375
+PID: 10496 | Iter: 20 | seed: 36202
+PID: 4092 | Iter: 21 | seed: 34593
+3332 | Sobel
+
+4092 | Sobel
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:23:21)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:23:21)
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:23:21)
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:23:21)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:23:21)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:23:21)
+Done!     (2018-08-07 11:23:21)
+3332 | cmf_pc_res
+Done!     (2018-08-07 11:23:21)
+4092 | cmf_pc_res
+Done!     (2018-08-07 11:23:21)
+10496 | cmf_pc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+4092 | cmf_dc_res
+PID: 3332 | Iter: 22 | seed: 27246
+PID: 10496 | Iter: 23 | seed: 16069
+PID: 4092 | Iter: 24 | seed: 96972
+3332 | Sobel
+10496 | Sobel
+4092 | Sobel
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:24:13)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:24:13)
+Done!     (2018-08-07 11:24:13)
+3332 | cmf_pc_res
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:24:13)
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:24:13)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:24:13)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:24:13)
+Done!     (2018-08-07 11:24:13)
+4092 | cmf_pc_res
+Done!     (2018-08-07 11:24:13)
+10496 | cmf_pc_res
+3332 | cmf_dc_res
+10496 | cmf_dc_res
+4092 | cmf_dc_res
+PID: 3332 | Iter: 25 | seed: 97963
+PID: 4092 | Iter: 27 | seed: 33998
+3332 | Sobel
+4092 | Sobel
+PID: 10496 | Iter: 26 | seed: 7011
+10496 | Sobel
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+10496 | filter_prodcoef
+3332 | filter_prodcoef
+10496 | filter_difcoef
+3332 | filter_difcoef
+10496 | xmed
+3332 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:25:06)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:25:06)
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:25:06)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:25:06)
+Done!     (2018-08-07 11:25:06)
+10496 | cmf_pc_res
+Done!     (2018-08-07 11:25:06)
+4092 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:25:06)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:25:06)
+Done!     (2018-08-07 11:25:06)
+3332 | cmf_pc_res
+4092 | cmf_dc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+PID: 10496 | Iter: 29 | seed: 31449
+PID: 4092 | Iter: 30 | seed: 73612
+PID: 3332 | Iter: 28 | seed: 62056
+10496 | Sobel
+4092 | Sobel
+3332 | Sobel
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:25:55)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:25:55)
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:25:55)
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:25:55)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:25:55)
+Done!     (2018-08-07 11:25:55)
+10496 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:25:55)
+Done!     (2018-08-07 11:25:55)
+3332 | cmf_pc_res
+Done!     (2018-08-07 11:25:55)
+4092 | cmf_pc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+4092 | cmf_dc_res
+PID: 3332 | Iter: 31 | seed: 27251
+PID: 10496 | Iter: 32 | seed: 41695
+PID: 4092 | Iter: 33 | seed: 78332
+3332 | Sobel
+10496 | Sobel
+4092 | Sobel
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:26:45)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:26:45)
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:26:45)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:26:45)
+Done!     (2018-08-07 11:26:46)
+Done!     (2018-08-07 11:26:46)
+10496 | cmf_pc_res
+4092 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:26:46)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:26:46)
+Done!     (2018-08-07 11:26:46)
+3332 | cmf_pc_res
+4092 | cmf_dc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+PID: 3332 | Iter: 34 | seed: 57737
+PID: 10496 | Iter: 35 | seed: 99471
+PID: 4092 | Iter: 36 | seed: 56185
+3332 | Sobel
+10496 | Sobel
+4092 | Sobel
+4092 | filter_prodcoef
+3332 | filter_prodcoef
+4092 | filter_difcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:27:39)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:27:39)
+Done!     (2018-08-07 11:27:39)
+4092 | cmf_pc_res
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:27:39)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:27:39)
+Done!     (2018-08-07 11:27:39)
+10496 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:27:39)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:27:39)
+Done!     (2018-08-07 11:27:39)
+3332 | cmf_pc_res
+4092 | cmf_dc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+PID: 4092 | Iter: 39 | seed: 58887
+PID: 10496 | Iter: 38 | seed: 63825
+PID: 3332 | Iter: 37 | seed: 94614
+4092 | Sobel
+3332 | Sobel
+10496 | Sobel
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | filter_prodcoef
+4092 | filter_prodcoef
+10496 | filter_difcoef
+4092 | filter_difcoef
+10496 | xmed
+4092 | xmed
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:28:35)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:28:35)
+Done!     (2018-08-07 11:28:35)
+4092 | cmf_pc_res
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:28:35)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:28:35)
+Done!     (2018-08-07 11:28:35)
+10496 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:28:35)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:28:35)
+Done!     (2018-08-07 11:28:35)
+3332 | cmf_pc_res
+4092 | cmf_dc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+PID: 4092 | Iter: 42 | seed: 56652
+PID: 10496 | Iter: 41 | seed: 76205
+4092 | Sobel
+PID: 3332 | Iter: 40 | seed: 46445
+10496 | Sobel
+3332 | Sobel
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:29:28)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:29:28)
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:29:28)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:29:28)
+Done!     (2018-08-07 11:29:28)
+10496 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:29:28)
+Done!     (2018-08-07 11:29:28)
+4092 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:29:28)
+Done!     (2018-08-07 11:29:28)
+3332 | cmf_pc_res
+4092 | cmf_dc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+PID: 4092 | Iter: 45 | seed: 27517
+PID: 10496 | Iter: 44 | seed: 59229
+PID: 3332 | Iter: 43 | seed: 73057
+10496 | Sobel
+4092 | Sobel
+3332 | Sobel
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:30:23)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:30:23)
+Done!     (2018-08-07 11:30:24)
+10496 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:30:24)
+Step 1: Sure Independent Screening ...     (2018-08-07 11:30:24)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:30:24)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:30:24)
+Done!     (2018-08-07 11:30:24)
+3332 | cmf_pc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+4092 | cmf_dc_res
+PID: 10496 | Iter: 47 | seed: 72943
+PID: 4092 | Iter: 48 | seed: 97265
+10496 | Sobel
+4092 | Sobel
+PID: 3332 | Iter: 46 | seed: 43236
+3332 | Sobel
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:31:12)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:31:12)
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:31:12)
+Done!     (2018-08-07 11:31:12)
+10496 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:31:12)
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:31:12)
+Done!     (2018-08-07 11:31:12)
+4092 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:31:12)
+Done!     (2018-08-07 11:31:12)
+3332 | cmf_pc_res
+4092 | cmf_dc_res
+3332 | cmf_dc_res
+10496 | cmf_dc_res
+PID: 4092 | Iter: 51 | seed: 78403
+PID: 10496 | Iter: 50 | seed: 82908
+4092 | Sobel
+10496 | Sobel
+PID: 3332 | Iter: 49 | seed: 16164
+3332 | Sobel
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+4092 | filter_prodcoef
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+4092 | filter_difcoef
+4092 | xmed
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:31:58)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:31:58)
+Done!     (2018-08-07 11:31:58)
+4092 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:31:58)
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:31:58)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:31:58)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:31:58)
+Done!     (2018-08-07 11:31:58)
+3332 | cmf_pc_res
+Done!     (2018-08-07 11:31:58)
+10496 | cmf_pc_res
+4092 | cmf_dc_res
+10496 | cmf_dc_res
+3332 | cmf_dc_res
+PID: 10496 | Iter: 53 | seed: 69572
+PID: 3332 | Iter: 52 | seed: 93024
+PID: 4092 | Iter: 54 | seed: 40362
+10496 | Sobel
+4092 | Sobel
+3332 | Sobel
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:32:48)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:32:48)
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:32:48)
+Done!     (2018-08-07 11:32:48)
+4092 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:32:48)
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:32:48)
+Done!     (2018-08-07 11:32:48)
+10496 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:32:48)
+Done!     (2018-08-07 11:32:48)
+3332 | cmf_pc_res
+4092 | cmf_dc_res
+3332 | cmf_dc_res
+10496 | cmf_dc_res
+PID: 3332 | Iter: 55 | seed: 42007
+PID: 4092 | Iter: 57 | seed: 51794
+10496 | Sobel
+4092 | Sobel
+10496 | filter_prodcoef
+10496 | filter_difcoef
+10496 | xmed
+4092 | filter_prodcoef
+4092 | filter_difcoef
+4092 | xmed
+3332 | filter_prodcoef
+3332 | filter_difcoef
+3332 | xmed
+10496 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:33:37)
+4092 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:33:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:33:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:33:37)
+Done!     (2018-08-07 11:33:37)
+10496 | cmf_pc_res
+Done!     (2018-08-07 11:33:37)
+4092 | cmf_pc_res
+3332 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:33:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:33:37)
+Done!     (2018-08-07 11:33:37)
+3332 | cmf_pc_res
+4092 | cmf_dc_res
+3332 | cmf_dc_res
+10496 | cmf_dc_res
+starting worker pid=8848 on localhost:11341 at 11:34:20.750
+starting worker pid=12672 on localhost:11341 at 11:34:21.351
+starting worker pid=3740 on localhost:11341 at 11:34:21.878
+Loading required package: lavaan
+Loading required package: lavaan
+Loading required package: lavaan
+This is lavaan 0.6-1
+lavaan is BETA software! Please report any bugs.
+Loading required package: Rcpp
+Loading required package: Rcpp
+Loading required package: ncvreg
+PID: 3740 | Iter: 3 | seed: 58999
+PID: 12672 | Iter: 2 | seed: 395
+PID: 8848 | Iter: 1 | seed: 28638
+8848 | Sobel
+12672 | Sobel
+3740 | Sobel
+3740 | filter_prodcoef
+12672 | filter_prodcoef
+8848 | filter_prodcoef
+3740 | filter_difcoef
+12672 | filter_difcoef
+12672 | xmed
+3740 | xmed
+8848 | filter_difcoef
+8848 | xmed
+Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+starting worker pid=10236 on localhost:11341 at 11:34:53.707
+starting worker pid=1388 on localhost:11341 at 11:34:54.012
+starting worker pid=8808 on localhost:11341 at 11:34:54.340
+Loading required package: lavaan
+Loading required package: lavaan
+Loading required package: lavaan
+This is lavaan 0.6-1
+lavaan is BETA software! Please report any bugs.
+Loading required package: Rcpp
+This is lavaan 0.6-1
+lavaan is BETA software! Please report any bugs.
+This is lavaan 0.6-1
+lavaan is BETA software! Please report any bugs.
+Loading required package: Rcpp
+Loading required package: Rcpp
+Loading required package: ncvreg
+Loading required package: ncvreg
+Loading required package: ncvreg
+PID: 8808 | Iter: 3 | seed: 11063
+PID: 1388 | Iter: 2 | seed: 70712
+PID: 10236 | Iter: 1 | seed: 35887
+8808 | Sobel
+10236 | Sobel
+1388 | Sobel
+10236 | filter_prodcoef
+8808 | filter_prodcoef
+1388 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_difcoef
+8808 | xmed
+1388 | filter_difcoef
+1388 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:35:01)
+8808 | hima
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:35:01)
+Step 1: Sure Independent Screening ...     (2018-08-07 11:35:01)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:35:01)
+10236 | hima
+Done!     (2018-08-07 11:35:01)
+1388 | cmf_pc_res
+Step 1: Sure Independent Screening ...     (2018-08-07 11:35:02)
+Done!     (2018-08-07 11:35:02)
+8808 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:35:02)
+Done!     (2018-08-07 11:35:02)
+10236 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 4 | seed: 34726
+PID: 1388 | Iter: 5 | seed: 16955
+PID: 8808 | Iter: 6 | seed: 67430
+10236 | Sobel
+8808 | Sobel
+1388 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:35:51)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:35:51)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:35:51)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:35:51)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:35:51)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:35:51)
+Done!     (2018-08-07 11:35:51)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:35:51)
+8808 | cmf_pc_res
+Done!     (2018-08-07 11:35:51)
+10236 | cmf_pc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 1388 | Iter: 8 | seed: 64763
+PID: 8808 | Iter: 9 | seed: 78910
+PID: 10236 | Iter: 7 | seed: 11913
+1388 | Sobel
+8808 | Sobel
+10236 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:36:43)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:36:43)
+Done!     (2018-08-07 11:36:43)
+1388 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:36:43)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:36:43)
+Done!     (2018-08-07 11:36:43)
+8808 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:36:43)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:36:43)
+Done!     (2018-08-07 11:36:43)
+10236 | cmf_pc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 8808 | Iter: 12 | seed: 81406
+PID: 1388 | Iter: 11 | seed: 32339
+8808 | Sobel
+1388 | Sobel
+PID: 10236 | Iter: 10 | seed: 26827
+10236 | Sobel
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:37:35)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:37:35)
+Done!     (2018-08-07 11:37:35)
+1388 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:37:35)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:37:35)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:37:35)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:37:35)
+Done!     (2018-08-07 11:37:35)
+8808 | cmf_pc_res
+Done!     (2018-08-07 11:37:35)
+10236 | cmf_pc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 10236 | Iter: 13 | seed: 23010
+PID: 1388 | Iter: 14 | seed: 42840
+PID: 8808 | Iter: 15 | seed: 78152
+8808 | Sobel
+
+1388 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+8808 | filter_prodcoef
+1388 | xmed
+8808 | filter_difcoef
+8808 | xmed
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:38:27)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:38:27)
+Done!     (2018-08-07 11:38:27)
+10236 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:38:27)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:38:27)
+Done!     (2018-08-07 11:38:27)
+1388 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:38:27)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:38:27)
+Done!     (2018-08-07 11:38:27)
+8808 | cmf_pc_res
+10236 | cmf_dc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 16 | seed: 86728
+PID: 8808 | Iter: 18 | seed: 87107
+PID: 1388 | Iter: 17 | seed: 60737
+10236 | Sobel
+8808 | Sobel
+1388 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | filter_prodcoef
+8808 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:39:26)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:39:26)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:39:26)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:39:26)
+Done!     (2018-08-07 11:39:26)
+8808 | cmf_pc_res
+Done!     (2018-08-07 11:39:26)
+1388 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:39:26)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:39:26)
+Done!     (2018-08-07 11:39:26)
+10236 | cmf_pc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 8808 | Iter: 21 | seed: 26530
+PID: 1388 | Iter: 20 | seed: 59706
+8808 | Sobel
+1388 | Sobel
+PID: 10236 | Iter: 19 | seed: 9532
+10236 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:40:21)
+10236 | hima
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:40:21)
+Step 1: Sure Independent Screening ...     (2018-08-07 11:40:21)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:40:21)
+Done!     (2018-08-07 11:40:21)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:40:21)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:40:21)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:40:21)
+Done!     (2018-08-07 11:40:21)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 1388 | Iter: 23 | seed: 84961
+PID: 10236 | Iter: 22 | seed: 11506
+PID: 8808 | Iter: 24 | seed: 67459
+1388 | Sobel
+10236 | Sobel
+8808 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:41:11)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:41:11)
+Done!     (2018-08-07 11:41:11)
+8808 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:41:11)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:41:11)
+Done!     (2018-08-07 11:41:11)
+1388 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:41:11)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:41:11)
+Done!     (2018-08-07 11:41:11)
+10236 | cmf_pc_res
+8808 | cmf_dc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 8808 | Iter: 27 | seed: 45819
+8808 | Sobel
+PID: 1388 | Iter: 26 | seed: 22656
+1388 | Sobel
+PID: 10236 | Iter: 25 | seed: 87289
+10236 | Sobel
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:42:02)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:42:02)
+Done!     (2018-08-07 11:42:02)
+8808 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:42:02)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:42:02)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:42:02)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:42:02)
+Done!     (2018-08-07 11:42:02)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:42:02)
+10236 | cmf_pc_res
+8808 | cmf_dc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 1388 | Iter: 29 | seed: 85121
+PID: 8808 | Iter: 30 | seed: 70754
+PID: 10236 | Iter: 28 | seed: 51113
+1388 | Sobel
+10236 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+1388 | filter_prodcoef
+8808 | xmed
+1388 | filter_difcoef
+1388 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:42:54)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:42:54)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:42:54)
+Done!     (2018-08-07 11:42:54)
+1388 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:42:54)
+Done!     (2018-08-07 11:42:54)
+8808 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:42:54)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:42:54)
+Done!     (2018-08-07 11:42:54)
+10236 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 1388 | Iter: 32 | seed: 57209
+PID: 10236 | Iter: 31 | seed: 55664
+1388 | Sobel
+8808 | Sobel
+10236 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:43:46)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:43:46)
+Done!     (2018-08-07 11:43:46)
+1388 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:43:46)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:43:46)
+Done!     (2018-08-07 11:43:46)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:43:46)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:43:46)
+Done!     (2018-08-07 11:43:46)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 8808 | Iter: 36 | seed: 38185
+PID: 1388 | Iter: 35 | seed: 30679
+PID: 10236 | Iter: 34 | seed: 12871
+8808 | Sobel
+1388 | Sobel
+10236 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+1388 | filter_prodcoef
+10236 | xmed
+1388 | filter_difcoef
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:44:39)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:44:39)
+Done!     (2018-08-07 11:44:39)
+10236 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:44:39)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:44:39)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:44:39)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:44:39)
+Done!     (2018-08-07 11:44:39)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:44:39)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 37 | seed: 76086
+PID: 8808 | Iter: 39 | seed: 96317
+PID: 1388 | Iter: 38 | seed: 131
+10236 | Sobel
+1388 | Sobel
+8808 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:45:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:45:37)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:45:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:45:37)
+Done!     (2018-08-07 11:45:37)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:45:37)
+8808 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:45:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:45:37)
+Done!     (2018-08-07 11:45:37)
+10236 | cmf_pc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 8808 | Iter: 42 | seed: 18804
+PID: 1388 | Iter: 41 | seed: 89600
+PID: 10236 | Iter: 40 | seed: 63861
+1388 | Sobel
+8808 | Sobel
+10236 | Sobel
+1388 | filter_prodcoef
+8808 | filter_prodcoef
+1388 | filter_difcoef
+8808 | filter_difcoef
+1388 | xmed
+8808 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:46:37)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:46:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:46:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:46:37)
+Done!     (2018-08-07 11:46:37)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:46:37)
+8808 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:46:37)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:46:37)
+Done!     (2018-08-07 11:46:37)
+10236 | cmf_pc_res
+8808 | cmf_dc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 8808 | Iter: 45 | seed: 9774
+PID: 1388 | Iter: 44 | seed: 59244
+PID: 10236 | Iter: 43 | seed: 44997
+1388 | Sobel
+8808 | Sobel
+10236 | Sobel
+8808 | filter_prodcoef
+8808 | filter_difcoef
+1388 | filter_prodcoef
+8808 | xmed
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:47:32)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:47:32)
+Done!     (2018-08-07 11:47:32)
+8808 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:47:32)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:47:32)
+Done!     (2018-08-07 11:47:32)
+10236 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:47:32)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:47:32)
+Done!     (2018-08-07 11:47:32)
+1388 | cmf_pc_res
+8808 | cmf_dc_res
+10236 | cmf_dc_res
+1388 | cmf_dc_res
+PID: 10236 | Iter: 46 | seed: 6429
+PID: 1388 | Iter: 47 | seed: 49413
+PID: 8808 | Iter: 48 | seed: 8959
+1388 | Sobel
+10236 | Sobel
+8808 | Sobel
+10236 | filter_prodcoef
+1388 | filter_prodcoef
+10236 | filter_difcoef
+1388 | filter_difcoef
+10236 | xmed
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:48:25)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:48:25)
+Done!     (2018-08-07 11:48:25)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:48:25)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:48:25)
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:48:25)
+Done!     (2018-08-07 11:48:25)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:48:25)
+8808 | cmf_pc_res
+Done!     (2018-08-07 11:48:25)
+1388 | cmf_pc_res
+10236 | cmf_dc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 49 | seed: 5455
+PID: 1388 | Iter: 50 | seed: 6142
+PID: 8808 | Iter: 51 | seed: 48208
+10236 | Sobel
+1388 | Sobel
+8808 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:49:18)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:49:18)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:49:18)
+Done!     (2018-08-07 11:49:18)
+1388 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:49:18)
+Done!     (2018-08-07 11:49:18)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:49:18)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:49:18)
+Done!     (2018-08-07 11:49:18)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 8808 | Iter: 54 | seed: 34528
+PID: 1388 | Iter: 53 | seed: 38016
+PID: 10236 | Iter: 52 | seed: 82534
+8808 | Sobel
+1388 | Sobel
+10236 | Sobel
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:50:15)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:50:15)
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:50:15)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:50:15)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:50:15)
+Done!     (2018-08-07 11:50:15)
+10236 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:50:15)
+Done!     (2018-08-07 11:50:15)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:50:15)
+8808 | cmf_pc_res
+10236 | cmf_dc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 8808 | Iter: 57 | seed: 94681
+
+8808 | Sobel
+10236 | Sobel
+PID: 1388 | Iter: 56 | seed: 60184
+1388 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:51:10)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:51:10)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:51:10)
+Done!     (2018-08-07 11:51:10)
+1388 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:51:10)
+Done!     (2018-08-07 11:51:10)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:51:10)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:51:10)
+Done!     (2018-08-07 11:51:10)
+8808 | cmf_pc_res
+10236 | cmf_dc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 1388 | Iter: 59 | seed: 42376
+PID: 10236 | Iter: 58 | seed: 31632
+PID: 8808 | Iter: 60 | seed: 16477
+10236 | Sobel
+1388 | Sobel
+8808 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:52:08)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:52:08)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:52:08)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:52:08)
+1388 | hima
+Done!     (2018-08-07 11:52:08)
+8808 | cmf_pc_res
+Step 1: Sure Independent Screening ...     (2018-08-07 11:52:08)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:52:08)
+Done!     (2018-08-07 11:52:08)
+10236 | cmf_pc_res
+Done!     (2018-08-07 11:52:08)
+1388 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 61 | seed: 6535
+PID: 1388 | Iter: 62 | seed: 46764
+PID: 8808 | Iter: 63 | seed: 73837
+10236 | Sobel
+1388 | Sobel
+8808 | Sobel
+8808 | filter_prodcoef
+1388 | filter_prodcoef
+8808 | filter_difcoef
+1388 | filter_difcoef
+8808 | xmed
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:53:07)
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:53:07)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:53:07)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:53:07)
+Done!     (2018-08-07 11:53:07)
+8808 | cmf_pc_res
+Done!     (2018-08-07 11:53:07)
+1388 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:53:07)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:53:07)
+Done!     (2018-08-07 11:53:07)
+10236 | cmf_pc_res
+8808 | cmf_dc_res
+10236 | cmf_dc_res
+1388 | cmf_dc_res
+PID: 1388 | Iter: 65 | seed: 66492
+PID: 10236 | Iter: 64 | seed: 2200
+PID: 8808 | Iter: 66 | seed: 30727
+1388 | Sobel
+10236 | Sobel
+8808 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:53:55)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:53:55)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:53:55)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:53:55)
+Done!     (2018-08-07 11:53:55)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:53:55)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:53:56)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:53:56)
+Done!     (2018-08-07 11:53:56)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 67 | seed: 96130
+PID: 8808 | Iter: 69 | seed: 69558
+10236 | Sobel
+8808 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:54:46)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:54:46)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:54:46)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:54:46)
+Done!     (2018-08-07 11:54:46)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:54:46)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:54:46)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:54:46)
+Done!     (2018-08-07 11:54:46)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 8808 | Iter: 72 | seed: 40572
+8808 | Sobel
+PID: 10236 | Iter: 70 | seed: 15425
+PID: 1388 | Iter: 71 | seed: 23235
+10236 | Sobel
+1388 | Sobel
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+10236 | filter_prodcoef
+1388 | filter_prodcoef
+10236 | filter_difcoef
+1388 | xmed
+
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:55:35)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:55:35)
+Done!     (2018-08-07 11:55:35)
+1388 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:55:35)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:55:35)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:55:35)
+Done!     (2018-08-07 11:55:35)
+10236 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:55:35)
+Done!     (2018-08-07 11:55:35)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 1388 | Iter: 74 | seed: 48651
+1388 | Sobel
+PID: 10236 | Iter: 73 | seed: 32936
+PID: 8808 | Iter: 75 | seed: 88490
+10236 | Sobel
+8808 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:56:23)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:56:23)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:56:23)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:56:23)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:56:23)
+Done!     (2018-08-07 11:56:23)
+1388 | cmf_pc_res
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:56:23)
+Done!     (2018-08-07 11:56:23)
+10236 | cmf_pc_res
+Done!     (2018-08-07 11:56:23)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 1388 | Iter: 77 | seed: 76458
+PID: 10236 | Iter: 76 | seed: 24014
+PID: 8808 | Iter: 78 | seed: 16001
+1388 | Sobel
+10236 | Sobel
+8808 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:57:11)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:57:11)
+Done!     (2018-08-07 11:57:11)
+1388 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:57:11)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:57:11)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:57:11)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:57:11)
+Done!     (2018-08-07 11:57:11)
+8808 | cmf_pc_res
+Done!     (2018-08-07 11:57:11)
+10236 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 1388 | Iter: 80 | seed: 34985
+1388 | Sobel
+PID: 8808 | Iter: 81 | seed: 93120
+PID: 10236 | Iter: 79 | seed: 19770
+8808 | Sobel
+10236 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+8808 | filter_prodcoef
+10236 | xmed
+8808 | filter_difcoef
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:58:00)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:58:00)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:58:00)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:58:00)
+Done!     (2018-08-07 11:58:00)
+1388 | cmf_pc_res
+Done!     (2018-08-07 11:58:00)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:58:00)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:58:00)
+Done!     (2018-08-07 11:58:00)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 82 | seed: 42983
+PID: 1388 | Iter: 83 | seed: 87181
+10236 | Sobel
+PID: 8808 | Iter: 84 | seed: 55804
+1388 | Sobel
+8808 | Sobel
+10236 | filter_prodcoef
+1388 | filter_prodcoef
+10236 | filter_difcoef
+1388 | filter_difcoef
+10236 | xmed
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:58:45)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:58:45)
+Done!     (2018-08-07 11:58:45)
+8808 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:58:45)
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:58:45)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:58:45)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:58:45)
+Done!     (2018-08-07 11:58:45)
+10236 | cmf_pc_res
+Done!     (2018-08-07 11:58:45)
+1388 | cmf_pc_res
+8808 | cmf_dc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 10236 | Iter: 85 | seed: 44747
+PID: 8808 | Iter: 87 | seed: 8166
+10236 | Sobel
+PID: 1388 | Iter: 86 | seed: 71970
+1388 | Sobel
+8808 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+8808 | filter_prodcoef
+8808 | filter_difcoef
+1388 | xmed
+8808 | xmed
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:59:39)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:59:39)
+Done!     (2018-08-07 11:59:39)
+1388 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:59:39)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:59:39)
+Done!     (2018-08-07 11:59:39)
+10236 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 11:59:40)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 11:59:40)
+Done!     (2018-08-07 11:59:40)
+8808 | cmf_pc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 88 | seed: 31874
+PID: 8808 | Iter: 90 | seed: 88534
+PID: 1388 | Iter: 89 | seed: 25351
+10236 | Sobel
+8808 | Sobel
+1388 | Sobel
+1388 | filter_prodcoef
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+1388 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:00:33)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:00:33)
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:00:33)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:00:33)
+Done!     (2018-08-07 12:00:33)
+8808 | cmf_pc_res
+Done!     (2018-08-07 12:00:33)
+1388 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:00:33)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:00:33)
+Done!     (2018-08-07 12:00:33)
+10236 | cmf_pc_res
+8808 | cmf_dc_res
+1388 | cmf_dc_res
+10236 | cmf_dc_res
+PID: 8808 | Iter: 93 | seed: 46241
+PID: 1388 | Iter: 92 | seed: 86178
+PID: 10236 | Iter: 91 | seed: 91077
+8808 | Sobel
+1388 | Sobel
+10236 | Sobel
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:01:21)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:01:21)
+Done!     (2018-08-07 12:01:21)
+10236 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:01:21)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:01:21)
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:01:21)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:01:22)
+Done!     (2018-08-07 12:01:22)
+1388 | cmf_pc_res
+Done!     (2018-08-07 12:01:22)
+8808 | cmf_pc_res
+10236 | cmf_dc_res
+8808 | cmf_dc_res
+1388 | cmf_dc_res
+PID: 1388 | Iter: 95 | seed: 89992
+1388 | Sobel
+PID: 10236 | Iter: 94 | seed: 54680
+PID: 8808 | Iter: 96 | seed: 38724
+10236 | Sobel
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:02:04)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:02:04)
+Done!     (2018-08-07 12:02:04)
+8808 | cmf_pc_res
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:02:04)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:02:04)
+Done!     (2018-08-07 12:02:04)
+10236 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:02:05)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:02:05)
+Done!     (2018-08-07 12:02:05)
+1388 | cmf_pc_res
+8808 | cmf_dc_res
+10236 | cmf_dc_res
+1388 | cmf_dc_res
+PID: 1388 | Iter: 98 | seed: 8210
+1388 | Sobel
+PID: 10236 | Iter: 97 | seed: 33165
+PID: 8808 | Iter: 99 | seed: 47262
+10236 | Sobel
+8808 | Sobel
+1388 | filter_prodcoef
+1388 | filter_difcoef
+1388 | xmed
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+8808 | filter_prodcoef
+8808 | filter_difcoef
+8808 | xmed
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:02:47)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:02:47)
+Done!     (2018-08-07 12:02:47)
+10236 | cmf_pc_res
+1388 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:02:47)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:02:47)
+Done!     (2018-08-07 12:02:47)
+1388 | cmf_pc_res
+8808 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:02:47)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:02:47)
+Done!     (2018-08-07 12:02:47)
+8808 | cmf_pc_res
+10236 | cmf_dc_res
+1388 | cmf_dc_res
+8808 | cmf_dc_res
+PID: 10236 | Iter: 100 | seed: 87835
+10236 | Sobel
+10236 | filter_prodcoef
+10236 | filter_difcoef
+10236 | xmed
+10236 | hima
+Step 1: Sure Independent Screening ...     (2018-08-07 12:03:28)
+Step 2: Penalized estimate (MCP) ...     (2018-08-07 12:03:28)
+Done!     (2018-08-07 12:03:28)
+10236 | cmf_pc_res
+10236 | cmf_dc_res
+Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning message:
+package 'Rcpp' was built under R version 3.5.1 
+Execution halted
