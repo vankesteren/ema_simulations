@@ -1,2 +1,1 @@
-# ema_simulations
-Simulations for the manuscript Exploratory Mediation Analysis with Multiple Potential Mediators
+# Simulations for the manuscript _Exploratory Mediation Analysis with Multiple Potential Mediators_
